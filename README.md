@@ -1,5 +1,6 @@
 # Angry-Birds
 Click-game Angry Birds
+![Angry Birds](https://github.com/kolaedr/angry-birds/blob/master/images/preview.png)
 html+js+css game
 4
 ## Installation
