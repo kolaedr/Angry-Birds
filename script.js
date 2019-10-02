@@ -1,4 +1,4 @@
-
+// sd
 //******************ALFA VERSION************************
 const startArea = document.querySelector('.start-window');
 const youLose = document.querySelector('.you-lose');
